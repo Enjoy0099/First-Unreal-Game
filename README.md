@@ -22,3 +22,19 @@ Collect all the crystals, stay safe, and solve puzzles to unlock the door and wi
 
 https://github.com/Enjoy0099/First-Unreal-Game/assets/97245841/11448c2a-299b-445b-9ce9-54bea48abb33
 
+
+# Want to Play
+
+> 1. Download the "Download" folder from the repository.
+
+> 2. Unzip the folder.
+
+> 3. Inside, find more zip files and unzip all into the same folder.
+
+> 4. Open the "WindowsNoEditor" folder.
+
+> 5. Double click and start "FirstUnrealProject.exe".
+
+> 6. Play the game and enjoy!
+
+> ## in simple: Download > unzip files on same folder > open WindowsNoEditor > start FirstUnrealProject.exe
